@@ -51,8 +51,8 @@ set-environment -g QT_QPA_PLATFORM "wayland;xcb"
 
 1. Clone repository
 ```
-git clone --no-checkout --depth 1 https://github.com/alberto-765/Tmux-Neovim-Configuration.git
-cp Tmux-Neovim-Configuration/tmux.conf ~/.tmux.conf
+git clone --depth 1 https://github.com/alberto-765/Tmux-Neovim-Configuration.git
+cp Tmux-Neovim-Configuration/.tmux.conf ~/.tmux.conf
 rm -rf Tmux-Neovim-Configuration
 ```
 
