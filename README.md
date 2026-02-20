@@ -6,7 +6,7 @@ This is a combination of the following two projects, plus some custom shortcuts
 2. [Neovim-Tmux Navigation](https://github.com/alexghergh/nvim-tmux-navigation)
 
 ## Changes made
-###From vim style
+### From vim style
 
 Removed status bar modifications because I added nordtheme plugin 
 
