@@ -67,8 +67,4 @@ rm -rf Tmux-Neovim-Configuration
 ```
 
 ## Recommendations
-For a fast use of tmux create a keyboard shortcuts, I use WIN + Enter and run 
-```
-alacritty -e tmux new -A -s main
-```
-It will create a custom main session for you for the day to day use
+For a fast use of tmux create a keyboard shortcuts to execute the tmux.sh script added to the repo
